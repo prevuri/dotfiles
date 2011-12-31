@@ -1,0 +1,16 @@
+[user]
+        name = Piyush Revuri
+        email = prevuri14@gmail.com
+        editor = vim
+
+[color]
+        diff = auto
+        status = auto
+        branch = auto
+[core]
+        excludefiles = ~/.gitignore
+[github]
+        user = prevuri
+[merge]
+        conflictstyle = merge
+

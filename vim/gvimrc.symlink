@@ -1,0 +1,9 @@
+colorscheme desert
+set anti
+set guioptions=egmrtc
+
+" Local config
+if filereadable($HOME . "/.gvimrc.local")
+  source ~/.gvimrc.local
+endif
+
