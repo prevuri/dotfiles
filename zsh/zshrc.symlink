@@ -9,7 +9,8 @@ for conf_file ($DOT/**/*.zsh) source $conf_file
 
 # TODO Autocompletion
 
-
+# todo.txt source
+source todo.txt/todo.sh
 # OH_MY_ZSH CONFIG
 # Path to your oh-my-zsh configuration.
 export ZSH=$HOME/.oh-my-zsh

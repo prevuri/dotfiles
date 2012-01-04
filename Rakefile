@@ -35,3 +35,5 @@ task :install do
     `ln -s "$PWD/#{linkable}" "#{target}"`
   end
 end
+
+task :default => :install
