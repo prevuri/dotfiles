@@ -1,2 +1,5 @@
 alias t='todo.sh -d $DOT/todo.txt/todo.cfg'
 alias n='t ls +next'
+alias tp='t projectview'
+alias ta='t add'
+alias ts='t schedule'

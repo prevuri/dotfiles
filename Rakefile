@@ -1,4 +1,4 @@
-# https://github.com/holman/dotfiles/Rakefile
+# https://github.com/holman/dotfiles
 require 'rake'
 
 desc "Dotfiles symlinking"
