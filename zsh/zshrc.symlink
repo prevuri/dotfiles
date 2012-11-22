@@ -12,4 +12,4 @@ for conf_file ($DOT/**/*.zsh) source $conf_file
 
 # TODO Autocompletion
 
-PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+PATH=$PATH:$HOME/.rvm/bin:/usr/local/share/npm/bin # Add Ruby and Node Version Managers to PATH`
